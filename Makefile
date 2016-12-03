@@ -9,6 +9,8 @@ FOOTER=footer
 
 CSS=styles/styles.css
 
+DEPLOY=~/EECS-jtamir/public_html/
+
 docs : $(PHTML)
 
 update : $(PHTML)
@@ -19,7 +21,7 @@ update : $(PHTML)
 	@echo 'Copying to server...'
 	# insert code for copying to server here.
 	chmod -R a+r html/
-	rsync --progress -ua --delete html/ ~/EECS-jtamir/public_html/
+	rsync --progress -ua --delete html/ $(DEPLOY)
 	@echo ' done.'
 
 
