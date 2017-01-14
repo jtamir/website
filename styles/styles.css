@@ -30,4 +30,11 @@ nav li a {
 	font-size: 22px;
 }
 
+a {
+	color: #1772d0;
+	text-decoration:none;
+}
+a:focus, a:hover {
+	color: #f09228;
+	text-decoration:none;
 }
