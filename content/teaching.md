@@ -1,3 +1,4 @@
+% Jon Tamir - Teaching
 ### Spring 2016
 I was a GSI for [EE 123 Digital Signal Processing][ee123], instructed by [Miki Lustig][mlustig].
 
