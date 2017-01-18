@@ -1,6 +1,8 @@
 
 #[home](index.html)
 
+#[publications](publications.html)
+
 #[research](research.html)
 
 #[teaching](teaching.html)

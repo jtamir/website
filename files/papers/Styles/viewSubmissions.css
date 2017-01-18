@@ -1,0 +1,267 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;  
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif!important;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+.MainContentWrapper{    
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+    word-wrap: break-word;
+}
+
+
+.fancybox-title-inside-wrap{
+    word-wrap: break-word !important;
+}
+
+.fancybox-iframe img{
+    max-width: 200px !important;
+}
+
+.figureImages img{
+    max-width: 200px !important;
+}
+
+.submissionTitle {
+    color:#59ABE3;
+    font-size:43px;
+    font-weight:200;
+}
+
+.affAuthers{
+    color:#757D75;
+    font-size:19px;
+}
+
+.affOther{    
+    color:#ABB7B7;
+    font-size:16px;
+}
+
+.affOther div{
+    margin-top: 5px;
+}
+
+.h3, h3 {
+  font-size: 24px;
+  color: #59ABE3;
+  font-weight: 200;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif!important;
+}
+
+b, strong {
+  font-weight: 700;
+}
+
+.MainSubmissionPart{
+    max-width:75%;
+    float:left;
+    padding: 0px;  
+    margin: 0px;
+}
+
+.SecondSubmissionPart{
+    max-width:20%;
+    float:right;
+    padding: 0px;  
+    margin: 0px;
+    margin-left: 15px;
+}
+
+@media print {
+    a:after {
+    content: "";
+    }
+    img:after {
+    content: "";
+    }
+
+    body {
+        margin: 0px;
+        padding: 0px;  
+        font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif!important;
+        font-size: 7px;
+        line-height: 1.42857143;
+        color: #333;
+        background-color: #fff;
+    }
+
+    .MainContentWrapper{    
+	    padding-right: 0px;
+	    padding-left: 0px;
+    }
+    
+    .h3, h3 {
+        font-size: 10px;
+        color: #59ABE3;
+        font-weight: 200;
+        font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif!important;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+
+    .affAuthers{
+        color:#757D75;
+        font-size:9px;
+    }
+  
+    .affOther{    
+        color:#ABB7B7;
+        font-size:9px;
+    }
+    
+    .AffiliationBlockContainer
+    {
+        padding: 5px;
+        margin-bottom: 0px;
+    }
+
+    .submissionTitle {
+        color:#59ABE3;
+        font-size:14px;
+        font-weight:200;
+    }
+
+    .sectionsWrapper{
+        
+        color:#59ABE3;
+        font-size:14px;
+        font-weight:200;
+    }
+    
+    .thumbnail{
+        border: 0px;
+        content: "";
+    }
+
+    .thumbnail a{        
+       pointer-events: none;
+       cursor: default;
+    }
+
+    a[href]:after {
+        content: none !important;
+    }
+
+    .thumbnail img{
+        min-width: 50px !important;
+    }
+
+    .col-sm-8{
+        float:left;
+        max-width: 525px !important;
+        padding: 0px;  
+        margin: 0px;
+
+    }
+    .col-sm-3{
+        float:right;
+        max-width: 160px !important;
+        padding: 0px;  
+        margin: 0px;
+    }
+
+    .thumbnail{
+        width: 250px !important;
+        padding: 0px;  
+    }
+
+    .thumbnailCaptions{
+        padding: 0px;  
+    }
+    
+    .figuresWrapper{
+        align-content:center;
+        text-align:center;
+    }
+}
+
+    .figuresWrapper{
+        align-content:center;
+        text-align:center;
+    }
+
+
+.submissionID{
+  font-size: 24px !important;
+  color: #59ABE3 !important;
+  font-weight: 200 !important;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    border-bottom: 1px solid #333 !important;
+}
+
+.PresentationTime{
+    padding-right:10px;
+    padding-left:50px;
+    vertical-align:top;
+}
+.PresentationTimeWithImages{
+    color:#4197D1 !important;
+    width: 110px !important;
+    vertical-align:top;
+    font-weight:400;
+}
+
+.PresentationTimeWithImages a {    
+    color:#4197D1 !important;
+    font-weight:400;
+}
+.PresentationTimeWithImages a:visited{    
+    color:#4197D1 !important;
+    font-weight:400;
+}
+.PresentationTimeWithImages span{    
+    color:#4197D1 !important;
+    font-weight:400;
+}
+
+.PresentationSynopsis{    
+    color:#4197D1 !important;
+    font-weight:400;
+}
+
+.ProgramAuthors{    
+    color:#5C6363 !important;
+    font-size:14px;
+    font-weight:400;
+}
+
+.ProgramRoom{
+    width: 200px;
+    color:#778080;
+    font-size:16px;
+}
+.ProgramMods{
+    width: 400px;
+    color:#778080;
+    font-size:16px;
+}
+
+.ProgramTime{
+    color:#778080;
+    font-size:14px;
+}
+
+hr{
+    border-top: 1px solid #C9BFBF !important;
+}
+
+.PresentationTitle{
+    color:#4197D1 !important;
+    font-size: 14px;
+    font-weight:400;
+}
+
+.TOCsectionsWrapper{
+        
+    color:#59ABE3;
+    font-size:14px;
+    font-weight:200;
+}
