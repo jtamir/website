@@ -1,9 +1,7 @@
 
-#[home](index.html)
+#[jon tamir](index.html)
 
 #[publications](publications.html)
-
-#[research](research.html)
 
 #[teaching](teaching.html)
 

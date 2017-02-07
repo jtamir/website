@@ -35,12 +35,6 @@ Reconstruction][sedona2016]. You can find all the materials presented at the wor
 including quick installation steps and demo walkthroughs, here:
 [Bart Workshop Materials][bart-workshop]
 
----
-
-## Work Experience
-During Summer 2015 I interned at [Arterys](http://www.arterys.com). Some time before that I interned at
-[National Instruments](http://www.ni.com). And way before that I interned at [Centaur Technology](http://www.centtech.com).
-
 
 [sedona2016]:http://ismrm.org/workshops/Data16/
 [t2shuffling-support]:http://github.com/jtamir/t2shuffling-support
