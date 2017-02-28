@@ -9,7 +9,8 @@ FOOTER=footer
 
 CSS=styles/styles.css
 
-DEPLOY=~/EECS-jtamir/public_html/
+DEPLOY=${EECS_LOGIN}
+RSYNC=rsync --rsync-path=/usr/sww/bin/rsync
 
 docs : $(PHTML)
 
@@ -24,7 +25,7 @@ deploy : update
 	@echo 'Copying to server...'
 	# insert code for copying to server here.
 	chmod -R a+r html/
-	rsync --progress -ua --delete html/ $(DEPLOY)
+	$(RSYNC) --progress -ua --delete html/ $(DEPLOY)
 	@echo ' done.'
 
 
