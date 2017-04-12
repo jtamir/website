@@ -43,6 +43,25 @@ In Winter 2016, I was a visiting scientist at [GE Healthcare Israel](http://www.
 <table>
 <tr>
 <td align="center">
+<img style='height:100px' src='images/t2t1ir.gif'>
+</td>
+<td width=12px> </td>
+<td>
+
+[T1-T2 Shuffling: Multi-Contrast 3D Fast Spin-Echo with T1 and T2 Sensitivity][t1-t2shuffling-webpage]  
+
+T1-T2 Shuffling is an MRI acquisition and reconstruction method based on 3D Fast Spin-Echo, and extends T2 Shuffling.
+The method mitigates image blur and rerospectively synthesizes T1-weighted and T2-weighted volumetric images.
+By varying the repetition times (TR) accross the different echo trains, T1 sensitivity is encoded in the imaging data.
+The TR values are chosen based on maximizing Fisher Information for T1 estimation. A joint T1-T2 subspace is computed from 
+an ensemble of simulated FSE signal evolutions, and linear combinations of the subspace coefficients are computed
+to generate synthetic T1-weighted and T2-weighted image contrasts.
+
+</td>
+</tr>
+<tr>
+<tr>
+<td align="center">
 <img style='height:100px' src='images/t2sh_knees.gif'>
 </td>
 <td width=12px> </td>
@@ -90,6 +109,7 @@ I like working with undergraduates on interesting projects. If you are intereste
 
 [sedona2016]:http://ismrm.org/workshops/Data16/
 [t2shuffling-webpage]:http://jtamir.github.com/t2shuffling-support
+[t1-t2shuffling-webpage]:files/papers/0451.html
 [bart-webpage]:http://mrirecon.github.io/bart
 [bart-workshop]:http://github.com/mikgroup/bart-workshop
 [eecs]: http://eecs.berkeley.edu/

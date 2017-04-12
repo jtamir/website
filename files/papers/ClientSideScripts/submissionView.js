@@ -1,4 +1,17 @@
-﻿
+﻿$(".fancybox").fancybox({
+    openEffect: 'elastic',
+    closeEffect: 'elastic',
+    type: 'image',
+    autoSize: false,
+    fitToView: true,
+    aspectRatio: true,
+
+    helpers: {
+        title: {
+            type: 'inside'
+        }
+    }
+});
 
 var tmpJobs = $("#affOther").text().split(', ');
 //  dump(tmpJobs);
