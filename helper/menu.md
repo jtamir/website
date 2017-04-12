@@ -5,4 +5,4 @@
 
 #[teaching](teaching.html)
 
-#[musings](musings.html)
+#[not-blog](musings.html)

@@ -1,11 +1,10 @@
 #!/bin/bash
 
+im_new=$1
+
 im="index.html?action=snapshot"
-im_new="jt3dp-webcam.jpg"
 
 wget $JT3DP_WEBCAM
 mv $im $im_new
-
-chmod o+x $im_new
 
 exit 0
