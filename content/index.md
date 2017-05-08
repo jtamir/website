@@ -53,6 +53,8 @@ I am a PhD student in [Electrical Engineering and Computer Sciences][eecs] at [U
 My advisor is [Miki Lustig][miki]. My research focus spans computational magnetic resonance imaging, signal processing, and inverse problems.
 I am primarily interested in applying advanced imaging and reconstruction techniques to pediatric MRI, with the goal of enabling **real clinical adoption**.
 
+I got my undergaduate degree in [Electrical and Computer Engineering][ut-ece] at [UT Austin][utexas].
+
 In Winter 2016, I was a visiting scientist at [GE Healthcare Israel](http://www.ge.com/il/), working with Yuval Zur. In Summer 2015 I interned at [Arterys](http://www.arterys.com). Some time before that I interned at
 [National Instruments](http://www.ni.com). And way before that I interned at [Centaur Technology](http://www.centtech.com).
 
@@ -134,6 +136,7 @@ I like working with undergraduates on interesting projects. If you are intereste
 [bart-workshop]:http://github.com/mikgroup/bart-workshop
 [eecs]: http://eecs.berkeley.edu/
 [berkeley]: http://berkeley.edu/
+[ut-ece]: http://www.ece.utexas.edu/
 [utexas]: http://utexas.edu/
 [miki]: http://www.mlustig.com
 [github]: http://github.com/jtamir
