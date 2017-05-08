@@ -22,9 +22,23 @@
 
 ## Conference Proceedings
 
+1. **J.I. Tamir**, V. Taviani, S.S. Vasanawala, and M. Lustig,  
+[T1-T2 Shuffling: Multi-Contrast 3D Fast Spin-Echo with T1 and T2 Sensitivity](files/papers/0451.html),  
+*ISMRM 25th Annual Meeting*, Honolulu, HI, April 2017.  
+[**[Magna Cum Laude Award]**][ismrm17-magna]
+
+1. **J.I. Tamir**, M. Lustig, V. Taviani, M.T. Alley, B. Perkins, L. Hart, D. Mortensen, and S.S. Vasanawala,  
+[Targeted Rapid Knee MRI Exam Using T2 Shuffling](files/papers/0231.html),  
+*ISMRM 25th Annual Meeting*, Honolulu, HI, April 2017.
+
+1. K. Gopalan, **J.I. Tamir**, A. Arias, and M. Lustig,  
+[Toward 3D Printed, Anatomy-Mimicking, Quantitative MRI Phantoms](files/papers/3733.html),  
+*ISMRM 25th Annual Meeting*, Honolulu, HI, April 2017.
+
 1. S. Bao, **J.I. Tamir**, U. Tariq, M. Uecker, P. Lai, W. Chen, M. Lustig, and S.S. Vasanawala,  
 [Fast single sequence comprehensive 4D pediatric knee MRI with T2 Shuffling](files/papers/1060.html),  
-*ISMRM 24th Annual Meeting*, Singapore, May 2016.
+*ISMRM 24th Annual Meeting*, Singapore, May 2016.  
+[**[Summa Cum Laude Award]**][ismrm16-summa]
 
 1. V. Taviani, D.V. Litwiller, **J.I. Tamir**, A.M. Loening, B.A. Hargreaves, and S.S. Vasanawala,  
 [Variable Density Compressed Sensing Single Shot Fast Spin Echo](files/papers/0618.html),  
@@ -39,61 +53,64 @@
 *ISMRM Workshop Workshop on Data Sampling and Image Reconstruction*, Sedona, Arizona, January 2016.  
 [**[Best Poster Award]**][sedona16-awards]
 
-1. **J.I. Tamir**, F. Ong, J.Y. Cheng, M. Uecker, and M. Lustig,
+1. **J.I. Tamir**, F. Ong, J.Y. Cheng, M. Uecker, and M. Lustig,  
 [Generalized Magnetic Resonance Image Reconstruction using The Berkeley Advanced Reconstruction Toolbox](files/papers/Tamir_Berkeley_Advanced.pdf),  
 *ISMRM Workshop Workshop on Data Sampling and Image Reconstruction*, Sedona, Arizona, January 2016.  
 
-1. **J.I. Tamir**, W. Chen, P. Lai, M. Uecker, S.S. Vasanawala, and M. Lustig,
-"T2 Shuffling: Multicontrast 3D Fast Spin Echo Imaging",
-*ISMRM 23rd Annual Meeting*, May 2015
+1. **J.I. Tamir**, W. Chen, P. Lai, M. Uecker, S.S. Vasanawala, and M. Lustig,  
+[T2 Shuffling: Multicontrast 3D Fast Spin Echo Imaging](files/papers/3399.pdf),  
+*ISMRM 23rd Annual Meeting*, Toronto, Canada, May 2015.
 
-1. **J.I. Tamir**, W. Chen, P. Lai, M. Uecker, and M. Lustig,
-"Improved Scan Efficiency of 3D Fast Spin Echo with Subspace-Constrained Reconstruction",
-*ISMRM 23rd Annual Meeting*, May 2015
+1. **J.I. Tamir**, W. Chen, P. Lai, M. Uecker, and M. Lustig,  
+[Improved Scan Efficiency of 3D Fast Spin Echo with Subspace-Constrained Reconstruction](files/papers/2463.pdf),  
+*ISMRM 23rd Annual Meeting*, Toronto, Canada, May 2015.
 
-1. X. Zou, W. Bian, **J.I. Tamir**, S. Banerjee, S. Chang, M. Lustig, S. Nelson, and J. Lupo,
-"Applicaiton of 3D High-resolution Multi-echo TOF-SWI Acquisition in Radiation-induced Cerebral Microbleeds at 3T",
-*ISMRM 23rd Annual Meeting*, May 2015
+1. X. Zou, W. Bian, **J.I. Tamir**, S. Banerjee, S. Chang, M. Lustig, S. Nelson, and J. Lupo,  
+[Applicaiton of 3D High-resolution Multi-echo TOF-SWI Acquisition in Radiation-induced Cerebral Microbleeds at 3T](files/papers/0066.pdf),  
+*ISMRM 23rd Annual Meeting*, Toronto, Canada, May 2015.  
+[**[Summa Cum Laude Award]**][ismrm15-summa]
 
-1. M. Uecker, F. Ong, **J.I. Tamir**, D. Bahri, P. Virtue, J. Cheng, and M. Lustig,
-"Berkeley Advanced Reconstruction Toolbox",
-*ISMRM 23rd Annual Meeting*, May 2015
+1. M. Uecker, F. Ong, **J.I. Tamir**, D. Bahri, P. Virtue, J. Cheng, and M. Lustig,  
+[Berkeley Advanced Reconstruction Toolbox](files/papers/2486.pdf),  
+*ISMRM 23rd Annual Meeting*, Toronto, Canada, May 2015.  
 
 1. H. Shang, P. Larson, G. Reed, E. Milshteyn, C. Morze, F. Ong, J. Gordon, **J.I. Tamir**, and D. Vigneron,
-"Variable Flip Angle Design for Balanced SSFP Transient State Imaging to Improve HP 13C MRI",
-*ISMRM 23rd Annual Meeting*, May 2015
+[Variable Flip Angle Design for Balanced SSFP Transient State Imaging to Improve HP 13C MRI](files/papers/3768.pdf),  
+*ISMRM 23rd Annual Meeting*, Toronto, Canada, May 2015.  
 
-1. J.Y. Cheng, M.T. Alley, T. Zhang, P. Lai, **J.I. Tamir**, M. Uecker, J. Pauly, M. Lustig, and S.S. Vasanawala,
-"Soft-gated accelerated Cartesian 4D flow imaging with intrinsic navigation",
-*ISMRM 23rd Annual Meeting*, May 2015
+1. J.Y. Cheng, M.T. Alley, T. Zhang, P. Lai, **J.I. Tamir**, M. Uecker, J. Pauly, M. Lustig, and S.S. Vasanawala,  
+[Soft-gated accelerated Cartesian 4D flow imaging with intrinsic navigation](files/papers/0451.pdf),  
+*ISMRM 23rd Annual Meeting*, Toronto, Canada, May 2015.  
+[**[Summa Cum Laude Award]**][ismrm15-summa]
 
-1. J.Y. Cheng, K. Hanneman, T. Zhang, M.T. Alley, P. Lai, **J.I. Tamir**, M. Uecker, M. Lustig, J. Pauly, and S.S. Vasanawala,
-"Impact of View Ordering and Soft-Gating on Morphologic Assessment of Congenital Heart Disease with 4D Flow",
-*ISMRM 23rd Annual Meeting*, May 2015
+1. J.Y. Cheng, K. Hanneman, T. Zhang, M.T. Alley, P. Lai, **J.I. Tamir**, M. Uecker, M. Lustig, J. Pauly, and S.S. Vasanawala,  
+[Impact of View Ordering and Soft-Gating on Morphologic Assessment of Congenital Heart Disease with 4D Flow](files/papers/4548.pdf),  
+*ISMRM 23rd Annual Meeting*, Toronto, Canada, May 2015.  
 
-1. **J.I. Tamir**, E.R. Elenberg, A. Banerjee, and S. Vishwanath,
-“Wireless Index Coding through Rank Minimization”,
-*IEEE International Conference on Communications*, June 2014.
+1. **J.I. Tamir**, E.R. Elenberg, A. Banerjee, and S. Vishwanath,  
+[Wireless Index Coding through Rank Minimization](files/papers/06884148.pdf),  
+*IEEE International Conference on Communications*, Sydney, Australia, June 2014.
 
-1. **J.I. Tamir**, P. Lai, M. Uecker, and M. Lustig,
-“Reduced Blurring in 3D Fast Spin Echo through Joint Temporal ESPIRiT Reconstruction,”
-*ISMRM 22rd Annual Meeting*, May 2014
+1. **J.I. Tamir**, P. Lai, M. Uecker, and M. Lustig,  
+[Reduced Blurring in 3D Fast Spin Echo through Joint Temporal ESPIRiT Reconstruction](files/papers/0616.pdf),  
+*ISMRM 22nd Annual Meeting*, Milan, Italy, May 2014  
+[**[Magna Cum Laude Award]**][ismrm14-magna]
 
-2. **J.I. Tamir**, D.E. Tamir, S. Dolev,
-“Object Signature Acquisition through Compressive Scanning",
+2. **J.I. Tamir**, D.E. Tamir, S. Dolev,  
+[Object Signature Acquisition through Compressive Scanning](https://link.springer.com/chapter/10.1007/978-3-642-38250-5_11),  
 *Optical Super Computing*, June 2012.
 
-3. J.N. Murdock, E. Ben-Dor, Y. Qiao, **J.I. Tamir**, and T.S. Rappaport,
-“A 38 GHz Cellular Outage Study for an Urban Outdoor Campus Environment”,
-*IEEE Wireless Communications and Networking Conference*, Apr. 2012.
+3. J.N. Murdock, E. Ben-Dor, Y. Qiao, **J.I. Tamir**, and T.S. Rappaport,  
+[A 38 GHz Cellular Outage Study for an Urban Outdoor Campus Environment](files/papers/06214335.pdf),  
+*IEEE Wireless Communications and Networking Conference*, Shanghai, China, April 2012.  
 
-4. **J.I. Tamir**, T.S. Rappaport, Y.C. Eldar, and A. Aziz,
-“Analog Compressed Sensing for RF Propagation Channel Sounding”,
-*IEEE International Conference on Acoustics, Speech, and Signal Processing*, Mar. 2012.
+4. **J.I. Tamir**, T.S. Rappaport, Y.C. Eldar, and A. Aziz,  
+[Analog Compressed Sensing for RF Propagation Channel Sounding](files/papers/06289121.pdf),  
+*IEEE International Conference on Acoustics, Speech, and Signal Processing*, Kyoto, Japan, March 2012.
 
-5. T.S. Rappaport, Y. Qiao, **J.I. Tamir**, J.N. Murdock, and E. Ben-Dor,
-“Cellular Broadband Millimeter Wave Outdoor Propagation Measurements and Angle of Arrival for Adaptive Beam Steering Systems (Invited)",
-*IEEE Radio and Wireless Symposium*, Jan. 2012.
+5. T.S. Rappaport, Y. Qiao, **J.I. Tamir**, J.N. Murdock, and E. Ben-Dor,  
+[Cellular Broadband Millimeter Wave Outdoor Propagation Measurements and Angle of Arrival for Adaptive Beam Steering Systems (Invited)](files/papers/06175397.pdf),    
+*IEEE Radio and Wireless Symposium*, Santa Clara, CA, Jan. 2012.
 
 ---
 ## Selected Talks
@@ -137,3 +154,7 @@ January 31, 2016.
 [4dflow-paper]:http://onlinelibrary.wiley.com/doi/10.1002/jmri.25106/full
 [mmwav-paper]:http://ieeexplore.ieee.org/xpl/abstractCitations.jsp?arnumber=6387266&tag=1
 [sedona16-awards]:http://www.ismrm.org/workshops/Data16/poster_awards.htm
+[ismrm14-magna]:http://www.ismrm.org/14/Magna2014.pdf
+[ismrm15-summa]:http://www.ismrm.org/15/15_summa.pdf
+[ismrm16-summa]:http://www.ismrm.org/16/16_summa.pdf
+[ismrm17-magna]:http://www.ismrm.org/17/17_Magna.pdf

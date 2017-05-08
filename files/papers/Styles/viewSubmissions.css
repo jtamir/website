@@ -295,21 +295,18 @@ hr{
     font-weight:200;
 }
 
-/* ------------Bootstrap For Review Information */
-.row {
-	margin-bottom:4px;
+.PresentationTimeContainer {
+    margin-bottom: 8px;
 }
 
-.col-align-right {
-	text-align:right; padding-right:8px;
+.ComputerNumberContainer {
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
-.col-align-right + [class^="col-md-"] {
-	border-left:1px solid #bbbbbb;
-}
-
-[class^="col-md-"] ol {
-	padding-left:15px;
+.ImgContainer img {
+    width: 100px;
+    height: auto;
 }
 
 /*  Bootstrap Clearfix */
