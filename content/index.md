@@ -114,6 +114,8 @@ BART is a collection of tools for prototyping new MRI reconstruction methods and
 Reconstruction][sedona2016]. You can find all the materials presented at the workshop,
 including quick installation steps and demo walkthroughs, here:
 [Bart Workshop Materials][bart-workshop]
+
+Logo credit: [Michelle Tamir](http://michelletamir.com)
 </td>
 </tr>
 </table>
