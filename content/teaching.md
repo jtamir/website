@@ -7,6 +7,8 @@ I am the TA for [EE 225E / BIOE 265 Principles of Magnetic Resonance Imaging][ee
 ### Spring 2016
 I was a TA for [EE 123 Digital Signal Processing][ee123], instructed by [Miki Lustig][mlustig].
 
+I was awarded EECS Distinguished GSI award for Spring 2016! [Link][eecs-gsi-award-2016]
+
 ---
 
 ### Spring 2015
@@ -28,3 +30,4 @@ I was awarded outstanding Graduate Student Instructor award for Spring 2015! [Li
 [mlustig]:http://www.eecs.berkeley.edu/~mlustig/
 [waller]:http://www.laurawaller.com/
 [gsi-award-2016]:http://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2016/
+[eecs-gsi-award-2016]:https://www2.eecs.berkeley.edu/Students/Awards/13/
