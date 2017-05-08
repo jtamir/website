@@ -28,6 +28,26 @@
 
 ---
 
+### News
+*  I recieved the UC Berkeley EECS Outstanding GSI Award! [Link](https://www2.eecs.berkeley.edu/Students/Awards/13/)
+*  We're hosting a BART demo and user meeting as a [Secret Session](http://www.ismrm.org/secret/)
+at the [ISMRM 2017 Annual Meeting!](http://www.ismrm.org/2017-annual-meeting-exhibition/)
+
+> Wednesday, April 26  
+> 13:45 - 14:45  
+> 25th Annual Meeting of the ISMRM  
+> Hawaii Convention Center, Honolulu
+
+> __Overview:__  
+> The Berkeley Advanced Reconstruction Toolbox (BART) is a free and open-source image-reconstruction framework
+> for computational MRI. In this session, we will demonstrate some of its features and answer questions.
+> We would also love to hear about your BART-related projects.
+
+> __Organizers:__  
+> [Martin Uecker](http://www.uecker.net), Jon Tamir, [Frank Ong](https://people.eecs.berkeley.edu/~frankong/), [Michael Lustig](http://www.mlustig.com)
+
+---
+
 ### Biography
 I am a PhD student in [Electrical Engineering and Computer Sciences][eecs] at [UC Berkeley][berkeley].
 My advisor is [Miki Lustig][miki]. My research focus spans computational magnetic resonance imaging, signal processing, and inverse problems.
