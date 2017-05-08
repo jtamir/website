@@ -114,6 +114,18 @@
 
 ---
 ## Selected Talks
+*  **BART Secret Session**  
+*ISMRM 25th Annual Meeting*, Honolulu, HI  
+April 26, 2017.
+
+*  **T1-T2 Shuffling: Multi-Contrast 3D Fast Spin-Echo with T1 and T2 Sensitivity**  
+*ISMRM 25th Annual Meeting*, Honolulu, HI  
+April 25, 2017.
+
+*  **Targeted Rapid Knee MRI Exam using T2 Shuffling**  
+*ISMRM 25th Annual Meeting*, Honolulu, HI  
+April 24, 2017.
+
 *  **Toward a Single-Sequence MRI Exam**  
 *Magnetic Resonance Seminar*, Weizmann Institute of Science, Rehovot, Israel  
 January 4, 2017.
@@ -139,9 +151,20 @@ July 29, 2016.
 May 10, 2016.
 
 *  **Clinical Pediatric MRI with the Berkeley Advanced Reconstruction Toolbox**  
-*9th Philips Pediatric User Meeting*, Phoenix Arizona  
+*9th Philips Pediatric User Meeting*, Phoenix, Arizona  
 January 31, 2016.
 
+*  **Reduced Blurring in 3D Fast Spin Echo through Joint Temporal ESPIRiT Reconstruction**  
+*ISMRM 22nd Annual Meeting*, Milan, Italy  
+May 14, 2014.
+
+*  **Analog Compressed Sensing for RF Propagation Channel Sounding**  
+*2012 IEEE ICASSP*, Kyoto, Japan  
+March, 2012.
+
+*  **Cellular Broadband Millimeter Wave Propagation and Angle of Arrival for Adaptive Beam Steering Systems**  
+*2012 IEEE RWS*, Santa Clara, CA  
+January, 2012.
 
 [sedona2016]:http://ismrm.org/workshops/Data16/
 [t2shuffling-support]:http://github.com/jtamir/t2shuffling-support
