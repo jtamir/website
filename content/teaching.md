@@ -1,6 +1,7 @@
 % Jon Tamir - Teaching
+
 ### Spring 2017
-I am the TA for [EE 225E / BIOE 265 Principles of Magnetic Resonance Imaging][ee225e], instructed by [Moriel Vandsburger][moriel].
+I was the TA for [EE 225E / BIOE 265 Principles of Magnetic Resonance Imaging][ee225e], instructed by [Moriel Vandsburger][moriel].
 
 ---
 
@@ -24,6 +25,7 @@ I was awarded outstanding Graduate Student Instructor award for Spring 2015! [Li
 *  EE 225A, Spring 2017
 *  EE 225E, Spring 2017
 
+[ee16a]:https://inst.eecs.berkeley.edu/~ee16a/su18/
 [ee225e]:http://inst.eecs.berkeley.edu/~ee225e/sp17/
 [ee123]:http://inst.eecs.berkeley.edu/~ee123/sp16
 [moriel]:http://vandsburgerlab.com/
