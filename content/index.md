@@ -14,12 +14,9 @@
 >
 > Contact:  
 > jtamir@eecs.berkeley.edu  
-> 545W Cory Hall  
+> 468 Cory Hall  (Swarm Lab)
 > Berkeley, CA 94720  
 >
-> Spring 2017 Office Hours:  
-> Tuesdays, 4:00-5:00pm, 400 Cory  
-> Wednesdays, 2:00-3:00pm, 531 Cory
 
 > [Github][github] / [Google Scholar][gscholar] / [LinkedIn][linkedin]
 </td>
