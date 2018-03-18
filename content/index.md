@@ -123,8 +123,9 @@ Logo credit: [Michelle Tamir](http://michelletamir.com)
 
 I like working with undergraduates on interesting projects. If you are interested, please contact me!
 
+* Nmachi Anumba
 * Debbie Ma
-* [Sid Iyer](http://siddharthsrinivasan.me/)
+* [Sid Iyer](http://www.mit.edu/~ssi/)
 
 
 
