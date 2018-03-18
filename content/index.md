@@ -26,20 +26,10 @@
 ---
 
 ### News
-*  I recieved the UC Berkeley EECS Outstanding GSI Award! [Link](https://www2.eecs.berkeley.edu/Students/Awards/13/)
-*  We're hosting a BART demo and user meeting as a [Secret Session](http://www.ismrm.org/secret/)
-at the [ISMRM 2017 Annual Meeting!](http://www.ismrm.org/2017-annual-meeting-exhibition/)
-
-> Wednesday, April 26  
-> 13:45 - 14:45  
-> 25th Annual Meeting of the ISMRM  
-> Hawaii Convention Center, Honolulu
-
-> __Overview:__  
-> The Berkeley Advanced Reconstruction Toolbox (BART) is a free and open-source image-reconstruction framework
-> for computational MRI. In this session, we will demonstrate some of its features and answer questions.
-> We would also love to hear about your BART-related projects.
-
+*  March, 2018: I received the Best Poster Award at the ISMRM Workshop on Machine Learning! [Link](https://www.ismrm.org/workshops/2018/Machine/)
+*  May, 2017: I recieved the UC Berkeley EECS Outstanding GSI Award! [Link](https://www2.eecs.berkeley.edu/Students/Awards/13/)
+*  April, 2017: We hosted a BART demo and user meeting as a [Secret Session](http://www.ismrm.org/secret/)
+at the [ISMRM 2017 Annual Meeting!](http://www.ismrm.org/2017-annual-meeting-exhibition/)  
 > __Organizers:__  
 > [Martin Uecker](http://www.uecker.net), Jon Tamir, [Frank Ong](https://people.eecs.berkeley.edu/~frankong/), [Michael Lustig](http://www.mlustig.com)
 
