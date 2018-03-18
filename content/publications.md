@@ -1,17 +1,21 @@
 % Jon Tamir - Publications
 
 ## Journal Publications
+1. F. Chen, V. Taviani, **J.I. Tamir**, J.Y. Cheng, T. Zhang, Q. Song, B.A. Hargreaves, J.M. Pauly, and S.S. Vasanawala,  
+[Self‐Calibrating Wave‐Encoded Variable‐Density Single‐Shot Fast Spin Echo Imaging][vdssfse-wave],  
+*J Magn Reson Imaging* 2018;47:954-966. doi: 10.1002/jmri.25853.
+
 1. S. Bao, **J.I. Tamir**, J.L. Young, U. Tariq, M. Uecker, P. Lai, W. Chen, M. Lustig, and S.S. Vasanawala,  
 [Fast Comprehensive Single-Sequence Four-Dimensional Pediatric Knee MRI With T2 Shuffling][t2shuffling-clinical],  
-*J Magn Reson Imaging* 2016 (Early View). doi: 10.1002/jmri.25508.
+*J Magn Reson Imaging* 2017;45:1700-1711. doi: 10.1002/jmri.25508.
 
 1. **J.I. Tamir**, M. Uecker, W. Chen, P. Lai, M.T. Alley, S.S. Vasanawala, and M. Lustig,  
 [T2 Shuffling: Sharp, multicontrast, volumetric fast spin-echo imaging][t2shuffling-paper],  
-*Magn Reson Med* 2016 (Early View). doi: 10.1002/mrm.26102.
+*Magn Reson Med* 2017;77:180-195. doi: 10.1002/mrm.26102.
 
 1. J.Y. Cheng, K. Hanneman, T. Zhang, M.T. Alley, P. Lai, **J.I. Tamir**, M. Uecker, J. Pauly, M. Lustig, and S.S. Vasanawala,  
 [Comprehensive motion-compensated highly accelerated 4D flow MRI with ferumoxytol enhancement for pediatric congenital heart disease][4dflow-paper],  
-*J Magn Reson Imaging* 2015 (Early View). doi: 10.1002/jmri.25106.
+*J Magn Reson Imaging* 2016;43:1355-1368. doi: 10.1002/jmri.25106.
 
 1. T.S. Rappaport, F. Gutierrez, E. Ben-Dor, J.N. Murdock, Y. Qiao, and **J.I. Tamir**,  
 [Broadband millimeter-wave propagation measurements and models using adaptive-beam antennas for outdoor urban cellular communications][mmwav-paper],  
@@ -21,6 +25,15 @@
 ---
 
 ## Conference Proceedings
+
+1. **J.I. Tamir**, V. Taviani, S.S. Vasanawala, and M. Lustig,  
+[Data-Driven Image Contrast Synthesis from Efficient Mixed-Contrast Sequences](files/papers/tamir-machinelearning.pdf),  
+*ISMRM Workshop on Machine Learning*, Pacific Grove, CA, March 2018.  
+**[Best Poster Award]**
+
+1. **J.I. Tamir**, M.J. Anderson, J. Turek, A. Roh, M.T. Alley, M. Lustig, and S.S. Vasanawala,  
+[Targeted Rapid MRI Exams and Reconstructions using T2 Shuffling](files/papers/tamir-mrvalue.pdf),  
+*ISMRM-RSNA Co-Provided Workshop on High-Value MRI*, Washington, D.C., February 2018
 
 1. **J.I. Tamir**, V. Taviani, S.S. Vasanawala, and M. Lustig,  
 [T1-T2 Shuffling: Multi-Contrast 3D Fast Spin-Echo with T1 and T2 Sensitivity](files/papers/0451.html),  
@@ -74,7 +87,7 @@
 [Berkeley Advanced Reconstruction Toolbox](files/papers/2486.pdf),  
 *ISMRM 23rd Annual Meeting*, Toronto, Canada, May 2015.  
 
-1. H. Shang, P. Larson, G. Reed, E. Milshteyn, C. Morze, F. Ong, J. Gordon, **J.I. Tamir**, and D. Vigneron,
+1. H. Shang, P. Larson, G. Reed, E. Milshteyn, C. Morze, F. Ong, J. Gordon, **J.I. Tamir**, and D. Vigneron,  
 [Variable Flip Angle Design for Balanced SSFP Transient State Imaging to Improve HP 13C MRI](files/papers/3768.pdf),  
 *ISMRM 23rd Annual Meeting*, Toronto, Canada, May 2015.  
 
@@ -114,9 +127,17 @@
 
 ---
 ## Selected Talks
-*  **BART Secret Session**  
-*ISMRM 25th Annual Meeting*, Honolulu, HI  
-April 26, 2017.
+*  **Toward a Single Sequence 3D MRI Exam using Subspace Methods**  
+*Brainmap Seminar*, Athinoula A. Martinos Center, Boston MA  
+February 21, 2018.
+
+*  **Targeted Rapid MRI Exams and Reconstructions using T2 Shuffling**  
+*ISMRM-RSNA Co-Provided Workshop on High-Value MRI*, Washington, D.C.  
+February 18, 2018.
+
+*  **Computational Magnetic Resonance Imaging and the Berkeley Advanced Reconstruction Toolbox (BART)**  
+*AUTOLab Seminar*, UC Berkeley  
+November 2, 2017.
 
 *  **T1-T2 Shuffling: Multi-Contrast 3D Fast Spin-Echo with T1 and T2 Sensitivity**  
 *ISMRM 25th Annual Meeting*, Honolulu, HI  
@@ -171,6 +192,7 @@ January, 2012.
 [t2shuffling-webpage]:http://jtamir.github.com/t2shuffling-support
 [t2shuffling-paper]:http://onlinelibrary.wiley.com/doi/10.1002/mrm.26102/abstract
 [t2shuffling-clinical]:http://onlinelibrary.wiley.com/doi/10.1002/jmri.25508/abstract
+[vdssfse-wave]:https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.25853
 [bart-webpage]:http://mrirecon.github.io/bart
 [bart-github]:http://github.com/mrirecon/bart
 [bart-workshop]:http://github.com/mikgroup/bart-workshop
