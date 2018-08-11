@@ -8,8 +8,7 @@
 <td width=20px>
 </td>
 <td>
-> **Jon Tamir**  
-> PhD Candidate  
+> **Jon Tamir, PhD**  
 > [EECS][eecs], [UC Berkeley][berkeley]
 >
 > Contact:  
@@ -26,6 +25,8 @@
 ---
 
 ### News
+* August 10, 2018: I graduated! See my dissertation here: [Link](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-115.html)
+* May 3, 2018: I gave my dissertation talk: [Link](https://events.berkeley.edu/?event_ID=117179&date=2018-05-03&tab=all_events)
 *  March, 2018: I received the Best Poster Award at the ISMRM Workshop on Machine Learning! [Link](https://www.ismrm.org/workshops/2018/Machine/)
 *  May, 2017: I recieved the UC Berkeley EECS Outstanding GSI Award! [Link](https://www2.eecs.berkeley.edu/Students/Awards/13/)
 *  April, 2017: We hosted a BART demo and user meeting as a [Secret Session](http://www.ismrm.org/secret/)
@@ -36,9 +37,11 @@ at the [ISMRM 2017 Annual Meeting!](http://www.ismrm.org/2017-annual-meeting-exh
 ---
 
 ### Biography
-I am a PhD student in [Electrical Engineering and Computer Sciences][eecs] at [UC Berkeley][berkeley].
-My advisor is [Miki Lustig][miki]. My research focus spans computational magnetic resonance imaging, signal processing, and inverse problems.
+I am a research associate in [Electrical Engineering and Computer Sciences][eecs] at [UC Berkeley][berkeley],
+working with [Miki Lustig][miki]. My research focus spans computational magnetic resonance imaging, signal processing, and inverse problems.
 I am primarily interested in applying advanced imaging and reconstruction techniques to pediatric MRI, with the goal of enabling **real clinical adoption**.
+
+I am also a part-time research scientist at [Subtle Medical][subtle].
 
 I got my undergaduate degree in [Electrical and Computer Engineering][ut-ece] at [UT Austin][utexas].
 
@@ -132,3 +135,4 @@ I like working with undergraduates on interesting projects. If you are intereste
 [github]: http://github.com/jtamir
 [gscholar]: https://scholar.google.com/citations?user=F_6aatkAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/jonathan-tamir-62887220
+[subtle]: https://subtlemedical.com/
