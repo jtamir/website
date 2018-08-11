@@ -29,7 +29,7 @@
 1. **J.I. Tamir**, V. Taviani, S.S. Vasanawala, and M. Lustig,  
 [Data-Driven Image Contrast Synthesis from Efficient Mixed-Contrast Sequences](files/papers/tamir-machinelearning.pdf),  
 *ISMRM Workshop on Machine Learning*, Pacific Grove, CA, March 2018.  
-**[Best Poster Award]**
+[**[Best Poster Award]**][ismrm-ml2018]
 
 1. **J.I. Tamir**, M.J. Anderson, J. Turek, A. Roh, M.T. Alley, M. Lustig, and S.S. Vasanawala,  
 [Targeted Rapid MRI Exams and Reconstructions using T2 Shuffling](files/papers/tamir-mrvalue.pdf),  
@@ -187,6 +187,7 @@ March, 2012.
 *2012 IEEE RWS*, Santa Clara, CA  
 January, 2012.
 
+[ismrm-ml2018]:https://www.ismrm.org/workshops/2018/Machine/
 [sedona2016]:http://ismrm.org/workshops/Data16/
 [t2shuffling-support]:http://github.com/jtamir/t2shuffling-support
 [t2shuffling-webpage]:http://jtamir.github.com/t2shuffling-support
