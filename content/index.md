@@ -25,7 +25,10 @@
 ---
 
 ### News
-* August 10, 2018: I graduated! See my dissertation here: [Link](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-115.html)
+* October 12, 2018: Invited talk at 14th SPR Advanced Symposium on Pediatric Cardiovascular Imaging (Walnut Creek, CA): [Link](https://www.pedrad.org/Events/SPR-Meetings/Cardiac-2018/14th-SPR-Advanced-Symposium-on-Pediatric-Cardiovascular-Imaging)
+* September 29, 2018: Invited talk at Imaging Elevated Symposium 2018 (Salt Lake City, UT): [Link](https://medicine.utah.edu/imaging-elevated/speakers2018.php)
+* September 12, 2018: Invited spotlight session talk at WMIC 2018 (Seattle, WA): [Link](http://www.wmis.org/2018-wmic/2018-spotlight-sessions)
+* August 10, 2018: I graduated! See my dissertation here: [Link](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-124.html)
 * May 3, 2018: I gave my dissertation talk: [Link](https://events.berkeley.edu/?event_ID=117179&date=2018-05-03&tab=all_events)
 *  March, 2018: I received the Best Poster Award at the ISMRM Workshop on Machine Learning! [Link](https://www.ismrm.org/workshops/2018/Machine/)
 *  May, 2017: I recieved the UC Berkeley EECS Outstanding GSI Award! [Link](https://www2.eecs.berkeley.edu/Students/Awards/13/)
