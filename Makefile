@@ -10,7 +10,8 @@ FOOTER=footer
 CSS=styles/styles.css
 
 DEPLOY=${EECS_LOGIN}
-RSYNC=rsync --rsync-path=/usr/sww/bin/rsync
+#RSYNC=rsync --rsync-path=/usr/sww/bin/rsync
+RSYNC=rsync
 
 docs : $(PHTML)
 
