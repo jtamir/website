@@ -1,6 +1,18 @@
 % Jon Tamir - Publications
 
 ## Journal Publications
+1. **J.I. Tamir**, V. Taviani, M.T. Alley, B. Perkins, L. Hart, K. Obrien, F. Wishah, J.K. Sandberg, M.J. Anderson, J.S. Turek, T.L. Willke, M. Lustig, and S.S. Vasnawala,  
+[Targeted Rapid Knee MRI Exam using T2 Shuffling][t2sh-mrvalue],  
+*J Magn Reson Imaging* 2019 (Early View). doi: 10.1002/jmri.26600.
+
+1. M.J. Anderson, **J.I. Tamir**, J.S. Turek, M.T. Alley, T.L. Willke, S.S. Vasanawala, and M. Lustig,  
+[Clinically Deployed Distributed Magnetic Resonance Imaging Reconstruction: Application to Pediatric Knee Imaging][t2sh-distributed],  
+*arXiv preprint* 2018. arXiv:1809.04195.
+
+1. F. Chen, V. Taviani, I. Malkiel, J.Y. Cheng, **J.I. Tamir**, J. Shaikh, S.T. Chang, C.J. Hardy, J.M. Pauly, and S.S. Vasanawala,  
+[Variable-Density Single-Shot Fast Spin-Echo MRI with Deep Learning Reconstruction by Using Variational Networks][vdssfse-vn],  
+*Radiology* 2018;289(2):366-373. doi: 10.1148/radiol.2018180445.
+
 1. F. Chen, V. Taviani, **J.I. Tamir**, J.Y. Cheng, T. Zhang, Q. Song, B.A. Hargreaves, J.M. Pauly, and S.S. Vasanawala,  
 [Self‐Calibrating Wave‐Encoded Variable‐Density Single‐Shot Fast Spin Echo Imaging][vdssfse-wave],  
 *J Magn Reson Imaging* 2018;47:954-966. doi: 10.1002/jmri.25853.
@@ -194,6 +206,8 @@ January, 2012.
 [t2shuffling-paper]:http://onlinelibrary.wiley.com/doi/10.1002/mrm.26102/abstract
 [t2shuffling-clinical]:http://onlinelibrary.wiley.com/doi/10.1002/jmri.25508/abstract
 [vdssfse-wave]:https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.25853
+[vdssfse-vn]:https://pubs.rsna.org/doi/abs/10.1148/radiol.2018180445
+[t2sh-distributed]:https://arxiv.org/abs/1809.04195
 [bart-webpage]:http://mrirecon.github.io/bart
 [bart-github]:http://github.com/mrirecon/bart
 [bart-workshop]:http://github.com/mikgroup/bart-workshop
@@ -204,3 +218,4 @@ January, 2012.
 [ismrm15-summa]:http://www.ismrm.org/15/15_summa.pdf
 [ismrm16-summa]:http://www.ismrm.org/16/16_summa.pdf
 [ismrm17-magna]:http://www.ismrm.org/17/17_Magna.pdf
+[t2sh-mrvalue]:https://www.ncbi.nlm.nih.gov/pubmed/30637847
