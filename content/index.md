@@ -41,7 +41,7 @@ at the [ISMRM 2017 Annual Meeting!](http://www.ismrm.org/2017-annual-meeting-exh
 
 ### Biography
 I am a research associate in [Electrical Engineering and Computer Sciences][eecs] at [UC Berkeley][berkeley],
-working with [Miki Lustig][miki]. My research focus spans computational magnetic resonance imaging, signal processing, and inverse problems.
+working with [Miki Lustig][miki]. I received my PhD from UC Berkeley in 2018. My research focus spans computational magnetic resonance imaging, signal processing, and inverse problems.
 I am primarily interested in applying advanced imaging and reconstruction techniques to pediatric MRI, with the goal of enabling **real clinical adoption**.
 
 I am also a part-time research scientist at [Subtle Medical][subtle].
