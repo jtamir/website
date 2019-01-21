@@ -25,6 +25,9 @@
 ---
 
 ### News
+* Upcoming seminars at [UT Austin](http://www.ece.utexas.edu/events/computational-magnetic-resonance-imaging-combining-math-physics-and-computation-improve), [ISMRM 2019](https://www.ismrm.org/19/program_files/WE22.htm)
+* Paper on targeted rapid pediatric knee MRI is out! Reduce exam times, reduce costs, enable same-day MRI access: [Link](https://www.ncbi.nlm.nih.gov/pubmed/30637847)
+* Decmber 17, 2018: Invited talk at MIT for the seminar series, "New Directions in Imaging." [Link][mit-talk]
 * October 12, 2018: Invited talk at 14th SPR Advanced Symposium on Pediatric Cardiovascular Imaging (Walnut Creek, CA): [Link](https://www.pedrad.org/Events/SPR-Meetings/Cardiac-2018/14th-SPR-Advanced-Symposium-on-Pediatric-Cardiovascular-Imaging)
 * September 29, 2018: Invited talk at Imaging Elevated Symposium 2018 (Salt Lake City, UT): [Link](https://medicine.utah.edu/imaging-elevated/speakers2018.php)
 * September 12, 2018: Invited spotlight session talk at WMIC 2018 (Seattle, WA): [Link](http://www.wmis.org/2018-wmic/2018-spotlight-sessions)
@@ -139,3 +142,4 @@ I like working with undergraduates on interesting projects. If you are intereste
 [gscholar]: https://scholar.google.com/citations?user=F_6aatkAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/jonathan-tamir-62887220
 [subtle]: https://subtlemedical.com/
+[mit-talk]:files/tamir-flyer.pdf
