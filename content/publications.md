@@ -38,14 +38,59 @@
 
 ## Conference Proceedings
 
+1. **J.I. Tamir**, S.X. Yu, and M. Lustig,  
+[Unsupervised Deep Basis Pursuit: Learning Reconstruction without Ground-Truth Data](files/papers/0660.html),  
+*ISMRM 27th Annual Meeting*, Montreal, Canada, May 2019.  
+**[Magna Cum Laude Award]**
+
+1. **J.I. Tamir**, F. Wishah, J.K. Sandberg, M.T. Alley, M. Lustig, and S.S. Vasanawala,  
+[Five-minute single sequence comprehensive 4D pediatric ankle MRI with T2 Shuffling](files/papers/0131.html),  
+*ISMRM 27th Annual Meeting*, Montreal, Canada, May 2019.  
+**[Magna Cum Laude Award]**  
+**[3rd Place, Pediatric Study Group]**  
+
+1. **J.I. Tamir**, M. Lustig, V. Taviani, M.T. Alley, K. O'Brien, B. Perkins, L. Hart, F. Wishah, J.K. Sandberg, M.J. Anderson, J. Turek, T.L. Willke, and S.S. Vasanawala,  
+[Introduction of Targeted Rapid Knee MRI exam using T2 Shuffling into Clinical Practice: Retrospective Analysis on Image Quality, Charges, and Scan Time](files/papers/1186.html),  
+*ISMRM 27th Annual Meeting*, Montreal, Canada, May 2019.  
+**[Magna Cum Laude Award]**
+
+1. P. Virtue, **J.I. Tamir**, M. Doneva, S. Yu, and M. Lustig,  
+Learning Contrast Synthesis from MR Fingerprinting,  
+*ISMRM 26th Annual Meeting*, Paris, France, June 2018.  
+**[Magna Cum Laude Award]**
+
+1. **J.I. Tamir**, V. Taviani, S.S. Vasanawala, and M. Lustig,  
+Data-Driven Image Contrast Synthesis from Efficient Mixed-Contrast Sequences,  
+*ISMRM 26th Annual Meeting*, Paris, France, June 2018.
+
+1. **J.I. Tamir**, F. Ong, S.S. Vasanawala, and M. Lustig,  
+Parameter-free Parallel Imaging and Compressed Sensing,  
+*ISMRM 26th Annual Meeting*, Paris, France, June 2018.
+
+1. P. Lai, F.S. Hafalir, J.Y. Cheng,  **J.I. Tamir**, S.S. Vasanawala, A.C.S. Brau, and M.A Janich,  
+Accelerating Dual Venc 4D Flow Using Compressed Sensing with Locally Low Rank along Velocity Encoding,  
+*ISMRM 26th Annual Meeting*, Paris, France, June 2018.
+
+1. A.T. Roh,  **J.I. Tamir**, J. Shaikh, K.N. Vu, V. Taviani, M. Lustig, and S.S. Vasanawala,  
+Four-dimensional T2-weighted imaging in prostate MRI with T2 shuffling,  
+*ISMRM 26th Annual Meeting*, Paris, France, June 2018.
+ 
+1. M. Driscoll, B. Brock, F. Ong **J.I. Tamir**, H.Y. Liu, M. Lustig, A. Fox, and K. Yelick,  
+Indigo: A Domain-Specific Lan- guage for Fast, Portable Image Reconstruction,  
+*IEEE IPDPS*, Vancouver, Canada, May 2018.
+
 1. **J.I. Tamir**, V. Taviani, S.S. Vasanawala, and M. Lustig,  
 [Data-Driven Image Contrast Synthesis from Efficient Mixed-Contrast Sequences](files/papers/tamir-machinelearning.pdf),  
 *ISMRM Workshop on Machine Learning*, Pacific Grove, CA, March 2018.  
 [**[Best Poster Award]**][ismrm-ml2018]
 
+1. P. Virtue, **J.I. Tamir**, M. Doneva, S. Yu, and M. Lustig,  
+[Direct Contrast Synthesis for Magnetic Resonance Fingerprinting](files/papers/virtue-machinelearning.pdf),  
+*ISMRM Workshop on Machine Learning*, Pacific Grove, CA, March 2018.
+
 1. **J.I. Tamir**, M.J. Anderson, J. Turek, A. Roh, M.T. Alley, M. Lustig, and S.S. Vasanawala,  
 [Targeted Rapid MRI Exams and Reconstructions using T2 Shuffling](files/papers/tamir-mrvalue.pdf),  
-*ISMRM-RSNA Co-Provided Workshop on High-Value MRI*, Washington, D.C., February 2018
+*ISMRM-RSNA Co-Provided Workshop on High-Value MRI*, Washington, D.C., February 2018.
 
 1. **J.I. Tamir**, V. Taviani, S.S. Vasanawala, and M. Lustig,  
 [T1-T2 Shuffling: Multi-Contrast 3D Fast Spin-Echo with T1 and T2 Sensitivity](files/papers/0451.html),  
@@ -139,6 +184,22 @@
 
 ---
 ## Selected Talks
+*  **Shuffled MRI: Accelerated, Single-Scan, Multi-Contrast Imaging**  
+*New Directions in Imaging*, MIT EECS, Boston MA  
+December 17, 2018.
+
+*  **Compressed Sensing (CS): What is It?**  
+*14th SPR Advanced Symposium on Pediatric Cardiovascular Imaging*, Walnut Creek, CA  
+October 12, 2018.
+
+*  **Shuffled MRI: Accelerated, Single-Scan, Multi-Contrast Imaging**  
+*Imaging Elevated Symposium*, Salt Lake City, UT  
+September 29, 2018.
+
+*  **Data Reduction Strategies For Fast and Quantitative MR Imaging**  
+*World Molecular Imaging Congress*, Seattle, WA  
+September 12, 2018.
+
 *  **Toward a Single Sequence 3D MRI Exam using Subspace Methods**  
 *Brainmap Seminar*, Athinoula A. Martinos Center, Boston MA  
 February 21, 2018.

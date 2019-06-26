@@ -24,8 +24,19 @@
 
 ---
 
+### *I will be joining [UT Austin ECE](http://www.ece.utexas.edu) as an assistant professor, January 2020*
+
 ### News
-* Upcoming seminars at [UT Austin](http://www.ece.utexas.edu/events/computational-magnetic-resonance-imaging-combining-math-physics-and-computation-improve), [ISMRM 2019](https://www.ismrm.org/19/program_files/WE22.htm)
+* Several talks at [ISMRM 2019](https://www.ismrm.org/19m), May 9-16
+    * May 12, Educational weekend session: BART software demo  
+	> [Workshop demos](https://github.com/mikgroup/bart-workshop)
+    * May 12, Educational weekend session: Compressed Sensing  
+	> [Slides](files/jtamir_compressed_sensing_ismrm19.pdf)
+    * May 13, Five-minute comprehensive 4D pediatric ankle exam with T2 Shuffling
+    * May 14, Unsupervised Deep Basis Pursuit
+    * May 16, Introduction of Targeted Rapid Knee MRI exam using T2 Shuffling
+* Invited talk at [UC Santa Barbara](https://www.ece.ucsb.edu/events/?i=8187)
+* Invited talk at [UT Austin](http://www.ece.utexas.edu/events/computational-magnetic-resonance-imaging-combining-math-physics-and-computation-improve)
 * Paper on targeted rapid pediatric knee MRI is out! Reduce exam times, reduce costs, enable same-day MRI access: [Link](https://www.ncbi.nlm.nih.gov/pubmed/30637847)
 * Decmber 17, 2018: Invited talk at MIT for the seminar series, "New Directions in Imaging." [Link][mit-talk]
 * October 12, 2018: Invited talk at 14th SPR Advanced Symposium on Pediatric Cardiovascular Imaging (Walnut Creek, CA): [Link](https://www.pedrad.org/Events/SPR-Meetings/Cardiac-2018/14th-SPR-Advanced-Symposium-on-Pediatric-Cardiovascular-Imaging)
@@ -57,6 +68,14 @@ In Winter 2016, I was a visiting scientist at [GE Healthcare Israel](http://www.
 ---
 
 ### Research Overview
+
+[Unsupervised Deep Basis Pursuit][dbp-webpage]
+
+Learning without ground-truth data
+
+[Fast, Targeted Pediatric Knee MRI Exam][t2sh-mrvalue-webpage]
+
+Using T2 Shuffling in the clinic
 
 <table>
 <tr>
@@ -131,6 +150,8 @@ I like working with undergraduates on interesting projects. If you are intereste
 [sedona2016]:http://ismrm.org/workshops/Data16/
 [t2shuffling-webpage]:http://jtamir.github.com/t2shuffling-support
 [t1-t2shuffling-webpage]:files/papers/0451.html
+[t2sh-mrvalue-webpage]:files/papers/0131.html
+[dbp-webpage]:files/papers/0660.html
 [bart-webpage]:http://mrirecon.github.io/bart
 [bart-workshop]:http://github.com/mikgroup/bart-workshop
 [eecs]: http://eecs.berkeley.edu/
