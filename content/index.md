@@ -24,7 +24,7 @@
 
 ---
 
-### *I will be joining [UT Austin ECE](http://www.ece.utexas.edu) as an assistant professor, January 2020*
+## *I will be joining [UT Austin ECE](http://www.ece.utexas.edu) as an assistant professor, January 2020*
 
 ### News
 * Several talks at [ISMRM 2019](https://www.ismrm.org/19m), May 9-16
