@@ -33,7 +33,8 @@
     * May 12, Educational weekend session: Compressed Sensing  
 	> [Slides](files/jtamir_compressed_sensing_ismrm19.pdf)
     * May 13, Five-minute comprehensive 4D pediatric ankle exam with T2 Shuffling
-    * May 14, Unsupervised Deep Basis Pursuit
+    * May 14, Unsupervised Deep Basis Pursuit  
+	> [Slides](files/jtamir_dbp_ismrm2019.pdf)
     * May 16, Introduction of Targeted Rapid Knee MRI exam using T2 Shuffling
 * Invited talk at [UC Santa Barbara](https://www.ece.ucsb.edu/events/?i=8187)
 * Invited talk at [UT Austin](http://www.ece.utexas.edu/events/computational-magnetic-resonance-imaging-combining-math-physics-and-computation-improve)
@@ -71,7 +72,8 @@ In Winter 2016, I was a visiting scientist at [GE Healthcare Israel](http://www.
 
 [Unsupervised Deep Basis Pursuit][dbp-webpage]
 
-Learning without ground-truth data
+Learning without ground-truth data  
+	> [Slides](files/jtamir_dbp_ismrm2019.pdf)
 
 [Fast, Targeted Pediatric Knee MRI Exam][t2sh-mrvalue-webpage]
 
