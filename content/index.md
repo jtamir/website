@@ -27,7 +27,8 @@
 ## *I will be joining [UT Austin ECE](http://www.ece.utexas.edu) as an assistant professor, January 2020*
 
 ### News
-* Several talks at [ISMRM 2019](https://www.ismrm.org/19m), May 9-16
+* September 28, 2019: Invited talk at [Western Neuroradiological Society 2019 Annual Meeting](https://iicme.com/event/western-neuroradiological-society-2019/)
+* May 9-16, 2019: Several talks at [ISMRM 2019](https://www.ismrm.org/19m)
     * May 12, Educational weekend session: BART software demo  
 	> [Workshop demos](https://github.com/mikgroup/bart-workshop)
     * May 12, Educational weekend session: Compressed Sensing  
