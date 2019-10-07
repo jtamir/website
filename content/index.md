@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-<img style='height:256px' src='images/me.png'>
+<img style='height:256px' src='images/me.jpg'>
 </td>
 <td width=20px>
 </td>
