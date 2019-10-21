@@ -9,12 +9,12 @@
 </td>
 <td>
 > **Jon Tamir, PhD**  
-> [EECS][eecs], [UC Berkeley][berkeley]
+> [ECE][ut-ece], [UT Austin][utexas]
 >
 > Contact:  
-> jtamir@eecs.berkeley.edu  
-> 468 Cory Hall  (Swarm Lab)
-> Berkeley, CA 94720  
+> jtamir@utexas.edu  
+> EER 7.872  
+> 2501 Speedway, Austin, TX 78712  
 >
 
 > [Github][github] / [Google Scholar][gscholar] / [LinkedIn][linkedin]
@@ -24,7 +24,9 @@
 
 ---
 
-## *I will be joining [UT Austin ECE](http://www.ece.utexas.edu) as an assistant professor, January 2020*
+## *I am looking for graduate students and post-docs for January 2020. Please reach out if you would like to learn more!*
+
+---
 
 ### News
 * September 28, 2019: Invited talk at [Western Neuroradiological Society 2019 Annual Meeting](https://iicme.com/event/western-neuroradiological-society-2019/)
@@ -56,16 +58,16 @@ at the [ISMRM 2017 Annual Meeting!](http://www.ismrm.org/2017-annual-meeting-exh
 ---
 
 ### Biography
-I am a research associate in [Electrical Engineering and Computer Sciences][eecs] at [UC Berkeley][berkeley],
-working with [Miki Lustig][miki]. I received my PhD from UC Berkeley in 2018. My research focus spans computational magnetic resonance imaging, signal processing, and inverse problems.
+I am an assistant professor in [Electrical and Computer Engineering][ut-ece] at [The University of Texas at Austin][utexas], with a joint appointment in the [Department of Diagnostic Medicine][dellmedradiology] at the [Dell Medical School][dellmed].
+I received my PhD from [UC Berkeley][berkeley] in 2018 and continued as a research associate in [Electrical Engineering and Computer Sciences][eecs]. My research focus spans computational magnetic resonance imaging, signal processing, and machine learning.
 I am primarily interested in applying advanced imaging and reconstruction techniques to pediatric MRI, with the goal of enabling **real clinical adoption**.
 
-I am also a part-time research scientist at [Subtle Medical][subtle].
-
-I got my undergaduate degree in [Electrical and Computer Engineering][ut-ece] at [UT Austin][utexas].
+From May 2018 December 2019, I was a part-time research scientist at [Subtle Medical][subtle].
 
 In Winter 2016, I was a visiting scientist at [GE Healthcare Israel](http://www.ge.com/il/), working with Yuval Zur. In Summer 2015 I interned at [Arterys](http://www.arterys.com). Some time before that I interned at
 [National Instruments](http://www.ni.com). And way before that I interned at [Centaur Technology](http://www.centtech.com).
+
+I got my undergaduate degree in [Electrical and Computer Engineering][ut-ece] at [UT Austin][utexas].  
 
 ---
 
@@ -161,6 +163,8 @@ I like working with undergraduates on interesting projects. If you are intereste
 [berkeley]: http://berkeley.edu/
 [ut-ece]: http://www.ece.utexas.edu/
 [utexas]: http://utexas.edu/
+[dellmed]: https://dellmed.utexas.edu
+[dellmedradiology]: https://dellmed.utexas.edu/units/department-of-diagnostic-medicine
 [miki]: http://www.mlustig.com
 [github]: http://github.com/jtamir
 [gscholar]: https://scholar.google.com/citations?user=F_6aatkAAAAJ&hl=en
