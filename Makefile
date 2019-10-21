@@ -9,8 +9,7 @@ FOOTER=footer
 
 CSS=styles/styles.css
 
-#DEPLOY=${EECS_LOGIN}
-DEPLOY=${UT_LOGIN}
+DEPLOY=${EECS_LOGIN}
 #RSYNC=rsync --rsync-path=/usr/sww/bin/rsync
 RSYNC=rsync
 
