@@ -1,8 +1,10 @@
 
 #[jon tamir](index.html)
 
+#[EE 313 Spring 2020](ee313sp20.html)
+
 #[publications](publications.html)
 
-#[teaching](teaching.html)
+#[other teaching](teaching.html)
 
 #[not-blog](musings.html)
