@@ -29,31 +29,10 @@
 ---
 
 ### News
-* September 28, 2019: Invited talk at [Western Neuroradiological Society 2019 Annual Meeting](https://iicme.com/event/western-neuroradiological-society-2019/)
-* May 9-16, 2019: Several talks at [ISMRM 2019](https://www.ismrm.org/19m)
-    * May 12, Educational weekend session: BART software demo  
-	> [Workshop demos](https://github.com/mikgroup/bart-workshop)
-    * May 12, Educational weekend session: Compressed Sensing  
-	> [Slides](files/jtamir_compressed_sensing_ismrm19.pdf)
-    * May 13, Five-minute comprehensive 4D pediatric ankle exam with T2 Shuffling
-    * May 14, Unsupervised Deep Basis Pursuit  
-	> [Slides](files/jtamir_dbp_ismrm2019.pdf)
-    * May 16, Introduction of Targeted Rapid Knee MRI exam using T2 Shuffling
-* Invited talk at [UC Santa Barbara](https://www.ece.ucsb.edu/events/?i=8187)
-* Invited talk at [UT Austin](http://www.ece.utexas.edu/events/computational-magnetic-resonance-imaging-combining-math-physics-and-computation-improve)
-* Paper on targeted rapid pediatric knee MRI is out! Reduce exam times, reduce costs, enable same-day MRI access: [Link](https://www.ncbi.nlm.nih.gov/pubmed/30637847)
-* Decmber 17, 2018: Invited talk at MIT for the seminar series, "New Directions in Imaging." [Link][mit-talk]
-* October 12, 2018: Invited talk at 14th SPR Advanced Symposium on Pediatric Cardiovascular Imaging (Walnut Creek, CA): [Link](https://www.pedrad.org/Events/SPR-Meetings/Cardiac-2018/14th-SPR-Advanced-Symposium-on-Pediatric-Cardiovascular-Imaging)
-* September 29, 2018: Invited talk at Imaging Elevated Symposium 2018 (Salt Lake City, UT): [Link](https://medicine.utah.edu/imaging-elevated/speakers2018.php)
-* September 12, 2018: Invited spotlight session talk at WMIC 2018 (Seattle, WA): [Link](http://www.wmis.org/2018-wmic/2018-spotlight-sessions)
-* August 10, 2018: I graduated! See my dissertation here: [Link](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-124.html)
-* May 3, 2018: I gave my dissertation talk: [Link](https://events.berkeley.edu/?event_ID=117179&date=2018-05-03&tab=all_events)
-*  March, 2018: I received the Best Poster Award at the ISMRM Workshop on Machine Learning! [Link](https://www.ismrm.org/workshops/2018/Machine/)
-*  May, 2017: I recieved the UC Berkeley EECS Outstanding GSI Award! [Link](https://www2.eecs.berkeley.edu/Students/Awards/13/)
-*  April, 2017: We hosted a BART demo and user meeting as a [Secret Session](http://www.ismrm.org/secret/)
-at the [ISMRM 2017 Annual Meeting!](http://www.ismrm.org/2017-annual-meeting-exhibition/)  
-> __Organizers:__  
-> [Martin Uecker](http://www.uecker.net), Jon Tamir, [Frank Ong](https://people.eecs.berkeley.edu/~frankong/), [Michael Lustig](http://www.mlustig.com)
+* January 26-29, 2020: I will be giving a demo of our software package, [DeepInPy: Solving Deep Inverse Problems in Python](https://github.com/jtamir/deepinpy) at the [ISMRM 2020 Workshop on Data Sampling and Image Reconstruction](https://www.ismrm.org/workshops/2020/Data/)  
+* December 13, 2019: Unsupervised Deep Basis Pursuit abstract presented at [NeurIPS 2019 Workshop on Deep Inverse Problems](https://deep-inverse.org/)  
+    > [[Preprint]](https://arxiv.org/abs/1910.13110) [[Poster]](files/jtamir_dbp_neurips2019.pdf)  
+* [News Archive](news_archive.html)
 
 ---
 
@@ -73,10 +52,10 @@ I got my undergaduate degree in [Electrical and Computer Engineering][ut-ece] at
 
 ### Research Overview
 
-[Unsupervised Deep Basis Pursuit][dbp-webpage]
-
-Learning without ground-truth data  
-	> [Slides](files/jtamir_dbp_ismrm2019.pdf)
+[Unsupervised Deep Basis Pursuit][dbp-webpage]: Learning without ground-truth data  
+	> [Prepint](https://arxiv.org/abs/1910.13110)  
+	> [NeurIPS 2019 Poster](files/jtamir_dbp_neurips2019.pdf)  
+	> [ISMRM 2019 Slides](files/jtamir_dbp_ismrm2019.pdf)
 
 [Fast, Targeted Pediatric Knee MRI Exam][t2sh-mrvalue-webpage]
 

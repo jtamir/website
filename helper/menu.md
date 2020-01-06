@@ -8,3 +8,5 @@
 #[other teaching](teaching.html)
 
 #[not-blog](musings.html)
+
+#[news archive](news_archive.html)
