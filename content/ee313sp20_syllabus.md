@@ -11,9 +11,9 @@ urlcolor: blue
 **Instructor office hours:** Tuesday 11am-12pm and Wednesday 1pm-2pm, EER 7.872  
 **Teaching assistant:** Arpit Bohra  
 **TA E-mail:** [arpitbohra@utexas.edu](mailto:arpitbohra@utexas.edu)  
-**TA office hours:** TBD  
-**TA optional discussion section:** TBD  
-**Course website:** [http://users.ece.utexas.edu/~jtamir/ee123sp20.html](http://users.ece.utexas.edu/~jtamir/ee313sp20.html)  
+**TA office hours:** Monday 3pm-5pm, EER 0.814f  
+**TA optional discussion section:** Friday 2pm-4pm, EER 1.516  
+**Course website:** [http://users.ece.utexas.edu/~jtamir/ee313sp20.html](http://users.ece.utexas.edu/~jtamir/ee313sp20.html)  
 
 
 This course will build a mathematical foundation for analyzing linear signal processing, communication, and control systems.
@@ -37,9 +37,10 @@ We will also use __Piazza__ for online discussions. This is a good place to post
 
 ## Approximate Grading Distribution
 - 20% Homework
-- 20% Midterm #1 (March 5, 2020, in class)
-- 20% Midterm #2 (April 23, 2020, in class)
-- 40% Final Exam
+- 4% Tune-up Tuesdays
+- 19% Midterm #1 (March 5, 2020, during class, room TBD)
+- 19% Midterm #2 (April 23, 2020, during class, room TBD)
+- 38% Final Exam (May 15, 2020, 9ama-12pm, set by the Registrar
 
 The plus/minus grading system will be used.
 
@@ -57,6 +58,12 @@ Request for regrading an assignment must be made in writing within one (1) week 
 - The lowest homework grade will be dropped
 
 *Discussion of homework questions is encouraged; however, please be absolutely sure to submit your own independent homework solution.*
+
+## Tune-up Tuesdays
+Tune-ups will consist of a hands-on working period of about 15 minutes during Tuesday lecture to solve a problem. Please bring your laptops with Python installed to lecture. The TA and I will be available to assist with questions. You will submit your work at the end of the hands-on period. The hope with the Tune-up Tuesdays is help in preparation for homework and mini-project assignments.
+
+
+The two lowest tune-up assignements will be dropped.
 
 ## Midterm Exams
 Midterms will be held during the 75-minute lecture period:  
