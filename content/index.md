@@ -17,7 +17,7 @@
 > 2501 Speedway, Austin, TX 78712  
 >
 
-> [Github][github] / [Google Scholar][gscholar] / [LinkedIn][linkedin]
+> [Github][github] / [Google Scholar][gscholar] / [LinkedIn][linkedin] / [Twitter][twitter]
 </td>
 </tr>
 </table>
@@ -148,5 +148,6 @@ I like working with undergraduates on interesting projects. If you are intereste
 [github]: http://github.com/jtamir
 [gscholar]: https://scholar.google.com/citations?user=F_6aatkAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/jonathan-tamir-62887220
+[twitter]: https://twitter.com/jtsense1
 [subtle]: https://subtlemedical.com/
 [mit-talk]:files/tamir-flyer.pdf
