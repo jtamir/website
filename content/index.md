@@ -29,6 +29,9 @@
 ---
 
 ### News
+* Our IEEE Signal Processing Magazine special issue paper is out!  
+	[Computational MRI With Physics-Based Constraints: Application to Multicontrast and Quantitative Imaging](https://ieeexplore.ieee.org/document/8962390)
+
 * January 26-29, 2020: I will be giving a demo of our software package, [DeepInPy: Solving Deep Inverse Problems in Python](https://github.com/jtamir/deepinpy) at the [ISMRM 2020 Workshop on Data Sampling and Image Reconstruction](https://www.ismrm.org/workshops/2020/Data/)  
 * December 13, 2019: Unsupervised Deep Basis Pursuit abstract presented at [NeurIPS 2019 Workshop on Deep Inverse Problems](https://deep-inverse.org/)  
     > [[Preprint]](https://arxiv.org/abs/1910.13110) [[Poster]](files/jtamir_dbp_neurips2019.pdf)  
