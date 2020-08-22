@@ -133,6 +133,9 @@ I like working with undergraduates on interesting projects. If you are intereste
 * Debbie Ma
 * [Sid Iyer](http://www.mit.edu/~ssi/)
 
+    ___
+<a href="https://diversity.utexas.edu/2020/06/29/history-of-the-black-experience/"> <img style='height:196px' src='images/diversity_badge.png'></a>
+
 
 
 [sedona2016]:http://ismrm.org/workshops/Data16/
