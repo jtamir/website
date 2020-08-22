@@ -24,7 +24,7 @@
 
 ---
 
-## *I am looking for graduate students and post-docs for January 2020. Please reach out if you would like to learn more: [Link to flyer](files/jtamir_utexas_flyer_2019_11_25.pdf)*
+## *I am hiring students and post-docs for the next academic cycle. Please reach out if you would like to learn more: [Link to flyer](files/jtamir_utexas_flyer_2020-08-21.pdf)*
 
 ---
 
