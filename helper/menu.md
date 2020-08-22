@@ -1,12 +1,15 @@
 
-#[jon tamir](index.html)
+<a href="index.html">jon tamir</a>
+----
 
-#[ee 313 spring 2020](ee313sp20.html)
+<a href="publications.html">publications</a>
+----
 
-#[publications](publications.html)
+<a href="teaching.html">teaching</a>
+----
 
-#[other teaching](teaching.html)
+<a href="musings.html">musings</a>
+----
 
-#[not-blog](musings.html)
-
-#[news archive](news_archive.html)
+<a href="news_archive.html">news archive</a>
+----
