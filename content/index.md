@@ -29,9 +29,12 @@
 ---
 
 ### News
+* June 1: We hosted a webinar on the BART toolbox for computational MRI.  
+	[[Webinar videos]](https://www.youtube.com/watch?v=IPXhgy4Tymo&list=PLDaugjrMfSRF0WhQ0nbcH4zeHWZPboGDY)  
+	[[Demos and source code]](https://github.com/mrirecon/bart-webinars)
 * Our IEEE Signal Processing Magazine special issue paper is out!  
-	[Computational MRI With Physics-Based Constraints: Application to Multicontrast and Quantitative Imaging](https://ieeexplore.ieee.org/document/8962390)  
-	[Preprint](https://arxiv.org/abs/1906.11410)
+	[[Computational MRI With Physics-Based Constraints: Application to Multicontrast and Quantitative Imaging]](https://ieeexplore.ieee.org/document/8962390)  
+	[[Preprint]](https://arxiv.org/abs/1906.11410)
 
 * January 26-29, 2020: I will be giving a demo of our software package, [DeepInPy: Solving Deep Inverse Problems in Python](https://github.com/jtamir/deepinpy) at the [ISMRM 2020 Workshop on Data Sampling and Image Reconstruction](https://www.ismrm.org/workshops/2020/Data/)  
 * December 13, 2019: Unsupervised Deep Basis Pursuit abstract presented at [NeurIPS 2019 Workshop on Deep Inverse Problems](https://deep-inverse.org/)  
