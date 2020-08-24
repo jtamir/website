@@ -28,6 +28,11 @@
 
 ---
 
+<div style="text-align:center">
+<a href="https://diversity.utexas.edu/2020/06/29/history-of-the-black-experience/"> <img style='height:196px' src='images/diversity_badge.png'></a>
+</div>
+---
+
 ### News
 * June 1: We hosted a webinar on the BART toolbox for computational MRI.  
 	[[Webinar videos]](https://www.youtube.com/watch?v=IPXhgy4Tymo&list=PLDaugjrMfSRF0WhQ0nbcH4zeHWZPboGDY)  
@@ -135,10 +140,6 @@ I like working with undergraduates on interesting projects. If you are intereste
 * Nmachi Anumba
 * Debbie Ma
 * [Sid Iyer](http://www.mit.edu/~ssi/)
-
-    ___
-<a href="https://diversity.utexas.edu/2020/06/29/history-of-the-black-experience/"> <img style='height:196px' src='images/diversity_badge.png'></a>
-
 
 
 [sedona2016]:http://ismrm.org/workshops/Data16/
